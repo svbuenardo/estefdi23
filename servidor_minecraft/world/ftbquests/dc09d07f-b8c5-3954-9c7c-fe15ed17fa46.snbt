@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "dc09d07fb8c539549c7cfe15ed17fa46"
+	name: "zzvgap"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		047C5CB3ED9A8E47: 1
+		7CE16FEEA03DBE1F: 1
+	}
+	started: {
+		7CE16FEEA03DBE1F: 1741110669799L
+		4523079E2318BD94: 1741110669799L
+		2583DDB195B6CFEA: 1741110669799L
+		0000000000000001: 1741110669799L
+		2C6177EDC934F9DC: 1741110669802L
+		047C5CB3ED9A8E47: 1741110669802L
+	}
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

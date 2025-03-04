@@ -1,0 +1,17 @@
+{
+	id: "dc09d07f-b8c5-3954-9c7c-fe15ed17fa46"
+	type: "player"
+	player_name: "zzvgap"
+	ranks: {
+		dc09d07f-b8c5-3954-9c7c-fe15ed17fa46: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "zzvgap"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D4FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

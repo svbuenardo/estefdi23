@@ -1107,3 +1107,23 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [04Mar2025 17:37:14.715] [Server thread/INFO] [readyplayerfun/]: Pausing server onWorldTick at 0, 0
 [04Mar2025 17:37:16.528] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1d68b0c
 [04Mar2025 17:37:18.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3131ms or 62 ticks behind
+[04Mar2025 17:51:08.256] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@780d0e6d
+[04Mar2025 17:51:08.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zzvgap[/172.28.18.222:64018] logged in with entity id 210 at (-63.5, 72.0, 48.5)
+[04Mar2025 17:51:08.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zzvgap joined the game
+[04Mar2025 17:51:08.376] [Server thread/INFO] [tac/]: PENDING
+[04Mar2025 17:51:08.624] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for dc09d07f-b8c5-3954-9c7c-fe15ed17fa46
+[04Mar2025 17:51:08.785] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:13:54 at 0, 0
+[04Mar2025 17:51:09.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zzvgap has made the advancement [Inhospitable]
+[04Mar2025 17:51:09.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zzvgap has made the advancement [First Day]
+[04Mar2025 17:51:10.559] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[04Mar2025 17:51:16.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6727ms or 134 ticks behind
+[04Mar2025 17:51:32.389] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zzvgap (17)
+[04Mar2025 17:51:32.391] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zzvgap
+[04Mar2025 17:53:08.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dc09d07f-b8c5-3954-9c7c-fe15ed17fa46
+[04Mar2025 17:53:09.091] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dc09d07f-b8c5-3954-9c7c-fe15ed17fa46
+[04Mar2025 17:53:09.094] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player zzvgap (dc09d07f-b8c5-3954-9c7c-fe15ed17fa46) successfully connected to voice chat
+[04Mar2025 17:56:36.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzvgap lost connection: Disconnected
+[04Mar2025 17:56:36.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zzvgap left the game
+[04Mar2025 17:56:36.302] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for dc09d07f-b8c5-3954-9c7c-fe15ed17fa46
+[04Mar2025 17:56:36.304] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 6427, 6427
+[04Mar2025 17:56:36.305] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zzvgap
